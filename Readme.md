@@ -26,6 +26,8 @@ Curriculum
       * Textbooks
           * [Calculus](https://www.stewartcalculus.com/) (James Stewart) 
           * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin)
+      * Courses
+          * [Multivariable Calculus with Edward Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ) (UC Berkeley: MATH 53)
   * <a name="Linear-Algebra"></a>**Linear Algebra**
       * Textbooks
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
