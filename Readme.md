@@ -39,16 +39,7 @@ Curriculum
       * <a name="Analysis"></a>**Analysis**
         * Textbooks
             * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin) - analysis delves into the "why" of math and does so by deriving the existence of various mathematical concepts (e.g., the real and complex numbers, differentiation) from very simple initial building blocks (i.e., sets, addition, multiplication, and limits). Like abstract algebra, it is an interesting subject, but it's probably only practically relevant to individuals pursuing math-y subjects at higher levels. Subjects that use some analysis for derivations/proofs will generally provide the necessary background.
-      * <a name="Topology-Differential-Geometry"></a>**Topology/Differential Geometry**
-        * Textbooks
-          * [Topology](https://www.pearsonhighered.com/program/Munkres-Topology-2nd-Edition/PGM56881.html) (Munkres) - felt like a continuation of analysis. Fun to think about, not very practical for most people (although, there is considerable interest in manifolds within the academic machine learning community; see [1](http://stats.stackexchange.com/questions/66939/what-is-the-manifold-assumption-in-semi-supervised-learning), [2](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/), [3](http://www.deeplearningbook.org/contents/representation.html), and [4](http://www.cs.cornell.edu/~kilian/research/manifold/manifold.html)).
-        * Courses
-          * [What is a Tensor?](https://www.youtube.com/playlist?list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c) - an excellent introduction to differential geometry. Not super useful unless you're studying [spacetime](https://en.wikipedia.org/wiki/Mathematics_of_general_relativity).
-          * [Tensor Calculus, Multilinear Algebra and Differential Geometry](https://www.youtube.com/playlist?list=PLtku678e9yj725K6hjLqKhJ854nTWWR5e)
-      * <a name="Abstract-Algebra"></a>**Abstract Algebra**
-        * Textbooks
-          * [Algebra](https://www.pearsonhighered.com/program/Artin-Algebra-2nd-Edition/PGM218164.html) (Artin) - this was the first math subject I encountered where it was clear that it was mostly for people who wanted to pursue math at a higher level (just to clarify, the subject I'm discussing here is typically referred to as "[abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)", so it's not the same subject you learned in grade school). That is, there was very little that could be taken from this subject and applied in non-mathematical settings. With that being said, the subject is really interesting, and there are some applications in computer science (e.g., monads and monoids, which are concepts in [category theory](https://en.wikipedia.org/wiki/Category_theory), also come up in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)).
-          * [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf) (Judson) (free!)
+
 * <a name="Statistics-Probability-Theory"></a>**Statistics/Probability Theory**
   * <a name="General-Statistics"></a>**General**
       * Textbooks
@@ -123,53 +114,19 @@ Curriculum
         * Textbooks
             * [Deep Learning](http://www.deeplearningbook.org) (Goodfellow, Bengio, and Courville) (draft: free!)
             * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
-        * Courses
-            * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Coursera)
-            * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) (Coursera)
-            * [IFT6266 â€“ H2015 Representation Learning](https://ift6266h15.wordpress.com/) (UniversitÃ© de MontrÃ©al)
-            * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html) (Stanford)
-    * <a name="Reinforcement-Learning"></a>**Reinforcement Learning**
-        * Textbooks
-            * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) (Sutton and Barto) (draft: free!)
-        * Courses
-            * [COMPM050/COMPGI13: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) (University College London)
-            * [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) (Udacity)
-            * [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) (University of California, Berkeley)
-    * <a name="Probabilistic-Graphical-Models"></a>**Probabilistic Graphical Models**
-        * Textbooks
-            * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) (Koller and Friedman)
-        * Courses
-            * [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) (Coursera)
+  
 * <a name="Other-Topics"></a>**Other Topics**
   * <a name="Big-Data"></a>**Big Data**
       * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
-      * Courses
-          * [Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) (edX)
-          * [Introduction to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) (Udacity)
-          * [Algorithms for Big Data](http://grigory.us/big-data-class.html) (Indiana University)
-          * [CMPSCI 711: More Advanced Algorithms](http://people.cs.umass.edu/~mcgregor/courses/CS711S12/) (University of Massachusetts)
-          * [COSC 548: Streaming Algorithms](http://people.cs.georgetown.edu/jthaler/COSC548.html) (Georgetown University)
-          * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) (Coursera)
-  * <a name="Social-Networks-and-Game-Theory"></a>**Social Networks and Game Theory**
-    *  Textbooks
-       * [Networks, Crowds and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (Easley and Kleinberg) (draft: free!)
-    *  Courses
-       * [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
-       * [Game Theory](https://www.coursera.org/learn/game-theory-1) (Coursera)
   * <a name="Advanced-Other-Topics"></a>**Advanced**
     * <a name="Optimization"></a>**Optimization**
         * Textbooks
           * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (SÃ¼li and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.
           * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
         * Courses
-          * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging but extremely rewarding course.
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
           * [Machine Learning 10-725: Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) (Carnegie Mellon University)
-    * <a name="Information-Theory"></a>**Information Theory**
-      * Textbooks
-        * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)
-        * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (MacKay) (free!)
     * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
         * Textbooks
           * [Discrete-Time Signal Processing](https://www.pearsonhighered.com/program/Oppenheim-Discrete-Time-Signal-Processing-3rd-Edition/PGM212808.html) (Oppenheim and Schafer)
