@@ -29,7 +29,7 @@ Curriculum
       * Textbooks
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
       * Courses
-           * [Gilbert Strang: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (MITopen)
+           * [Gilbert Strang: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (MIT open course)
   * <a name="Elementary Statistics and Probability"></a>**Elementary Statistics**
       * Textbooks
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
@@ -47,6 +47,8 @@ Curriculum
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
+      * Courses
+        * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
    * <a name="Classical-Machine-Learning"></a>**Classical Machine Learning**
       * Textbooks
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
