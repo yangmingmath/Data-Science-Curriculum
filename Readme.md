@@ -71,6 +71,7 @@ Curriculum
             * [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) (MIT open course)
    * <a name="Optimization"></a>**Optimization**
        * Textbooks
+          * [The Mathematics of Nonlinear Programming] (A. Peressini, F. Sullivan, and J. Uhl, Jr)
           * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
        * Courses
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
