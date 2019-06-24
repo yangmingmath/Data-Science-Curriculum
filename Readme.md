@@ -1,5 +1,5 @@
 # Ming Yang's Data Science Curriculum
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Michael's Data Science Curriculum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://sites.google.com/view/michaelaalcorn/" property="cc:attributionName" rel="cc:attributionURL">Michael A. Alcorn</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 
 Table of Contents
 =================
@@ -7,39 +7,25 @@ Table of Contents
 * [**Math**](#Math)
   * [**Calculus**](#Calculus)
   * [**Linear Algebra**](#Linear-Algebra)
-  * [**Differential Equations**](#Differential-Equations)
-  * [**Advanced**](#Advanced-Math)
-    * [**Analysis**](#Analysis)
-    * [**Topology/Differential Geometry**](#Topology-Differential-Geometry)
-    * [**Abstract Algebra**](#Abstract-Algebra)
 * [**Statistics/Probability Theory**](#Statistics-Probability-Theory)
   * [**General**](#General-Statistics)
   * [**Bayesian**](#Bayesian)
   * [**Advanced**](#Advanced-Statistics)
     * [**Statistical Learning Theory**](#Statistical-Learning-Theory)
     * [**Theory of Probability**](#Theory-of-Probability)
-* [**Econometrics**](#Econometrics)
 * [**Algorithms**](#Algorithms)
 * [**Machine Learning/Artificial Intelligence**](#Machine-Learning-Artificial-Intelligence)
   * [**General**](#General-Machine-Learning)
-  * [**Natural Language Processing**](#Natural-Language-Processing)
   * [**Advanced**](#Advanced-Machine-Learning)
     * [**Deep Learning**](#Deep-Learning)
-    * [**Reinforcement Learning**](#Reinforcement-Learning)
-    * [**Probabilistic Graphical Models**](#Probabilistic-Graphical-Models)
 * [**Other Topics**](#Other-Topics)
   * [**Big Data**](#Big-Data)
-  * [**Social Networks and Game Theory**](#Social-Networks-and-Game-Theory)
   * [**Advanced**](#Advanced-Other-Topics)
     * [**Optimization**](#Optimization)
-    * [**Information Theory**](#Information-Theory)
     * [**Digital Signal Processing**](#Digital-Signal-Processing)
 
 Curriculum
 ==========
-* [Michael's Guide to Becoming a Data Scientist](https://github.com/airalcorn2/Michael-s-Guide-to-Becoming-a-Data-Scientist)
-* <a name="Math"></a>**Math**
-  * Over the course of my math studies, I learned that the [French have a reputation for teaching math a particular way from a young age](https://www.quora.com/What-are-the-reasons-the-french-are-so-good-at-mathematics-What-are-some-best-practices-at-policy-level-in-school-or-university-that-could-be-emulated-in-a-developing-country), and I think I'm a fan.
   * <a name="Calculus"></a>**Calculus**
       * Textbooks
           * [Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP001951.html) (Apostol) - Apostol's textbooks are classics for a reason. They are a great introduction to calculus and do an excellent job of developing intuition for limits, derivatives, and integrals.
