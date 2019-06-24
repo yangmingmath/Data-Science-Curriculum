@@ -47,7 +47,7 @@ Curriculum
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
-   * <a name="Classical-Machine-Learning"></a>**General**
+   * <a name="Classical-Machine-Learning"></a>**Classical-Machine-Learning**
       * Textbooks
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
