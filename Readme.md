@@ -30,11 +30,11 @@ Curriculum
       * Textbooks
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
 
-* <a name="Elementry Statistics and Probability"></a>**Elementry Statistics**
+  * <a name="Elementry Statistics and Probability"></a>**Elementry Statistics**
       * Textbooks
-          * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
-          * Courses
-        * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (harvard)
+           * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
+      * Courses
+           * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (harvard)
 * <a name="Bayesian"></a>**Bayesian**
       * Textbooks
           * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman et al.)
