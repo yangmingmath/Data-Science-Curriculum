@@ -30,22 +30,20 @@ Curriculum
       * Textbooks
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
 
-* <a name="Statistics-Probability-Theory"></a>**Statistics/Probability Theory**
-  * <a name="General-Statistics"></a>**General**
+* <a name="Elementry Statistics and Probability"></a>**Elementry Statistics**
       * Textbooks
-          * [All of Statistics: A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/) (Wasserman)
           * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
-  * <a name="Bayesian"></a>**Bayesian**
+          * Courses
+        * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (harvard)
+* <a name="Bayesian"></a>**Bayesian**
       * Textbooks
           * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman et al.)
-* <a name="Statistical-Learning-Theory"></a>**Statistical Learning Theory**
+* <a name="Statistical-Learning"></a>**Statistical Learning**
       * Textbooks
           * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)
-    * Courses
+          * Courses
         * [In-depth introduction to machine learning in 15 hours of expert videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
-* <a name="Theory-of-Probability"></a>**Theory of Probability**
-      * Courses
-        * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (harvard)
+      
 * <a name="Algorithms"></a>**Algorithms**
   * Textbooks
       * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
