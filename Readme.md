@@ -16,6 +16,7 @@ Table of Contents
 * [**Classical Machine Learning**](#General-Machine-Learning)
 * [**Deep Learning**](#Advanced-Machine-Learning)
 * [**Big Data**](#Big-Data)
+* [**Artificial Intelligence**](#Artificial-Intelligence)
 * [**Optimization**](#Optimization)
   
 
