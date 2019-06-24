@@ -29,14 +29,10 @@ Curriculum
   * <a name="Calculus"></a>**Calculus**
       * Textbooks
           * [Calculus](https://www.stewartcalculus.com/) (James Stewart) 
+          * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin)
   * <a name="Linear-Algebra"></a>**Linear Algebra**
       * Textbooks
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
-  * <a name="Advanced-Math"></a>**Advanced**
-      * These subjects are only necessary for those who want to achieve a deeper understanding of the math behind machine learning/probability.
-      * <a name="Analysis"></a>**Analysis**
-        * Textbooks
-            * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin) - analysis delves into the "why" of math and does so by deriving the existence of various mathematical concepts (e.g., the real and complex numbers, differentiation) from very simple initial building blocks (i.e., sets, addition, multiplication, and limits). Like abstract algebra, it is an interesting subject, but it's probably only practically relevant to individuals pursuing math-y subjects at higher levels. Subjects that use some analysis for derivations/proofs will generally provide the necessary background.
 
 * <a name="Statistics-Probability-Theory"></a>**Statistics/Probability Theory**
   * <a name="General-Statistics"></a>**General**
@@ -73,7 +69,6 @@ Curriculum
   * <a name="Big-Data"></a>**Big Data**
       * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
-  * <a name="Advanced-Other-Topics"></a>**Advanced**
     * <a name="Optimization"></a>**Optimization**
         * Textbooks
           * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
