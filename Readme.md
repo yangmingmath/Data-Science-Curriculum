@@ -47,13 +47,13 @@ Curriculum
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
-   * <a name="Classical-Machine-Learning"></a>**Classical-Machine-Learning**
+   * <a name="Classical-Machine-Learning"></a>**Classical Machine Learning**
       * Textbooks
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
-          * [Learning From Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) (edX) - warning: this one is more on the theoretical side.
+          * [Learning From Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) (edX) 
    * <a name="Deep-Learning"></a>**Deep Learning**
         * Textbooks
             * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
