@@ -15,14 +15,14 @@ Table of Contents
     * [**Theory of Probability**](#Theory-of-Probability)
 * [**Algorithms**](#Algorithms)
 * [**Machine Learning/Artificial Intelligence**](#Machine-Learning-Artificial-Intelligence)
-  * [**General**](#General-Machine-Learning)
+  * [**General Machine Learning**](#General-Machine-Learning)
   * [**Advanced**](#Advanced-Machine-Learning)
     * [**Deep Learning**](#Deep-Learning)
 * [**Other Topics**](#Other-Topics)
   * [**Big Data**](#Big-Data)
   * [**Advanced**](#Advanced-Other-Topics)
     * [**Optimization**](#Optimization)
-    * [**Digital Signal Processing**](#Digital-Signal-Processing)
+  
 
 Curriculum
 ==========
