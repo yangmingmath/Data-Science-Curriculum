@@ -63,6 +63,11 @@ Curriculum
    * <a name="Big-Data"></a>**Big Data**
         * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
+   * <a name="Artificial-Intelligence"></a>**Artificial Intelligence**
+        * Textbooks
+            * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Stuart Russell and Peter Norvig)
+        * Courses
+            * [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) (MIT open course)
    * <a name="Optimization"></a>**Optimization**
        * Textbooks
           * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
