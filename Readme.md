@@ -13,7 +13,7 @@ Table of Contents
 * [**Computer Science**](#CS)
   * [**Algorithms**](#Algorithms)
   * [**Theory of Computing**](#Theory-of-Computing)
-  * [**Machine Learning with Python-From Linear Models to Neural Network**](#Machine-Learning)
+  * [**Machine Learning-From Linear Models to Neural Network**](#Machine-Learning)
   * [**Big Data**](#Big-Data)
   * [**Artificial Intelligence**](#Artificial-Intelligence)
   * [**Optimization**](#Optimization)
@@ -51,6 +51,11 @@ Curriculum
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
+   * <a name="Discrete Mathematics"></a>**Discrete-Mathematics**
+      * Textbooks
+        * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
+      * Courses
+        * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT open course)
    * <a name="Machine-Learning"></a>**Machine Learning**
       * Textbooks
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
