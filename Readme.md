@@ -35,7 +35,7 @@ Curriculum
       * Textbooks
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
       * Courses
-           * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (harvard)
+           * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
   * <a name="Statistical-Learning"></a>**Statistical Learning**
       * Textbooks
           * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)
