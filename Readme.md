@@ -51,6 +51,7 @@ Curriculum
         * [Introduction to the Theory of Computation](http://www-math.mit.edu/~sipser/book.html) (Sipser, Michael.)
       * Courses
         * [Theory of Computation](https://www.nesoacademy.org/computer-science/toc-and-automata-theory/theory-of-computation) (Neso Academy)
+        * [Theory of Computation](https://www.youtube.com/playlist?list=PL3-wYxbt4yCgBHUpwXDTLos3JStccGIax) (Theory of Computation-nptel)
    * <a name="Discrete Structures"></a>**Discrete-Structures**
       * Textbooks
         * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
