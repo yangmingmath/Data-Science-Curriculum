@@ -14,7 +14,6 @@ Table of Contents
   * [**Algorithms**](#Algorithms)
   * [**Theory of Computing**](#Theory-of-Computing)
   * [**Machine Learning with Python-From Linear Models to Neural Network**](#Machine-Learning)
-  * [**Deep Learning**](#Deep-Learning)
   * [**Big Data**](#Big-Data)
   * [**Artificial Intelligence**](#Artificial-Intelligence)
   * [**Optimization**](#Optimization)
@@ -56,13 +55,9 @@ Curriculum
       * Textbooks
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
+          * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
-          * [Learning From Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) (edX) 
-   * <a name="Deep-Learning"></a>**Deep Learning**
-        * Textbooks
-            * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
-            
    * <a name="Big-Data"></a>**Big Data**
         * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
