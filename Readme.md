@@ -6,7 +6,7 @@ Table of Contents
 * [**Mathematics**](#Math)
   * [**Calculus**](#Calculus)
   * [**Linear Algebra**](#Linear-Algebra)
-  * [**Discrete Mathematics**](#Discrete-Mathematics)
+  * [**Discrete Structures**](#Discrete-Structures)
   * [**Elementary Statistics and Probability**](#Elementary-Statistics)
   * [**Bayesian Statistics**](#Bayesian-Statistics)
   * [**Statistical Learning**](#Statistical-Learning)
@@ -56,7 +56,7 @@ Curriculum
         * [Introduction to the Theory of Computation](http://www-math.mit.edu/~sipser/book.html) (Sipser, Michael.)
       * Courses
         * [Theory of Computation](https://www.nesoacademy.org/computer-science/toc-and-automata-theory/theory-of-computation) (Neso Academy)
-   * <a name="Discrete Mathematics"></a>**Discrete-Mathematics**
+   * <a name="Discrete Structures"></a>**Discrete-Structures**
       * Textbooks
         * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
       * Courses
