@@ -59,7 +59,6 @@ Curriculum
         * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT open course)
    * <a name="Machine-Learning"></a>**Machine Learning**
       * Textbooks
-          * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
           * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
       * Courses
