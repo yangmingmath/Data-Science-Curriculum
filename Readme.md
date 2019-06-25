@@ -3,21 +3,20 @@
 
 Table of Contents
 =================
-
-* [**Math**](#Math)
+* [**Mathematics**](#Math)
   * [**Calculus**](#Calculus)
   * [**Linear Algebra**](#Linear-Algebra)
-* [**Statistics/Probability Theory**](#Statistics-Probability-Theory)
-  * [**Elementary Statistics**](#General-Statistics)
-  * [**Bayesian**](#Bayesian)
-  * [**Statistical Learning Theory**](#Statistical-Learning-Theory)
-  * [**Theory of Probability**](#Theory-of-Probability)
-* [**Algorithms**](#Algorithms)
-* [**Classical Machine Learning**](#General-Machine-Learning)
-* [**Deep Learning**](#Advanced-Machine-Learning)
-* [**Big Data**](#Big-Data)
-* [**Artificial Intelligence**](#Artificial-Intelligence)
-* [**Optimization**](#Optimization)
+  * [**Elementary Statistics and Probability**](#Elementary-Statistics)
+  * [**Bayesian Statistics**](#Bayesian-Statistics)
+  * [**Statistical Learning**](#Statistical-Learning)
+* [**Computer Science**](#CS)
+  * [**Algorithms**](#Algorithms)
+  * [**Theory of Computing**](#Theory-of-Computing)
+  * [**Machine Learning**](#Machine-Learning)
+  * [**Deep Learning**](#Deep-Learning)
+  * [**Big Data**](#Big-Data)
+  * [**Artificial Intelligence**](#Artificial-Intelligence)
+  * [**Optimization**](#Optimization)
   
 
 Curriculum
@@ -33,12 +32,12 @@ Curriculum
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
       * Courses
            * [Gilbert Strang: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (MIT open course)
-  * <a name="Elementary Statistics and Probability"></a>**Elementary Statistics**
+  * <a name="Elementary Statistics and Probability"></a>**Elementary Statistics and Probability**
       * Textbooks
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (harvard)
-  * <a name="Bayesian"></a>**Bayesian**
+  * <a name="Bayesian Statistics"></a>**Bayesian Statistics**
       * Textbooks
            * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman et al.)
   * <a name="Statistical-Learning"></a>**Statistical Learning**
@@ -52,7 +51,7 @@ Curriculum
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
-   * <a name="Classical-Machine-Learning"></a>**Classical Machine Learning**
+   * <a name="Machine-Learning"></a>**Machine Learning**
       * Textbooks
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
