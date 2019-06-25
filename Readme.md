@@ -12,7 +12,7 @@ Table of Contents
 * [**Computer Science**](#CS)
   * [**Algorithms**](#Algorithms)
   * [**Theory of Computation**](#Theory-of-Computation)
-  * [**Machine Learning-From Linear Models to Neural Network**](#Machine-Learning)
+  * [**Machine Learning**](#Machine-Learning)
   * [**Data Mining**](#Data-Mining)
   * [**Artificial Intelligence**](#Artificial-Intelligence)
   * [**Optimization**](#Optimization)
