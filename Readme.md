@@ -9,13 +9,14 @@ Table of Contents
   * [**Discrete Structures**](#Discrete-Structures)
   * [**Elementary Statistics and Probability**](#Elementary-Statistics)
   * [**Statistical Learning**](#Statistical-Learning)
+  * [**Optimization**](#Optimization)
 * [**Computer Science**](#CS)
   * [**Algorithms and Data Structure in Python**](#Algorithms)
   * [**Theory of Computation**](#Theory-of-Computation)
   * [**Machine Learning**](#Machine-Learning)
   * [**Data Mining**](#Data-Mining)
   * [**Artificial Intelligence**](#Artificial-Intelligence)
-  * [**Optimization**](#Optimization)
+
   
 
 Curriculum
@@ -30,6 +31,11 @@ Curriculum
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
       * Courses
            * [Gilbert Strang: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (MIT open course)
+  * <a name="Discrete Structures"></a>**Discrete-Structures**
+      * Textbooks
+        * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
+      * Courses
+        * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT open course)
   * <a name="Elementary Statistics and Probability"></a>**Elementary Statistics and Probability**
       * Textbooks
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
@@ -40,6 +46,13 @@ Curriculum
           * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
       * Courses
         * [In-depth introduction to machine learning in 15 hours of expert videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
+   * <a name="Optimization"></a>**Optimization**
+       * Textbooks
+          * [The Mathematics of Nonlinear Programming] (A. Peressini, F. Sullivan, and J. Uhl, Jr)
+          * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
+       * Courses
+          * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
+          * [Machine Learning 10-725: Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) (Carnegie Mellon University)
       
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
@@ -52,11 +65,7 @@ Curriculum
       * Courses
         * [Theory of Computation](https://www.nesoacademy.org/computer-science/toc-and-automata-theory/theory-of-computation) (Neso Academy)
         * [Theory of Computation](https://www.youtube.com/playlist?list=PL3-wYxbt4yCgBHUpwXDTLos3JStccGIax) (Theory of Computation-nptel)
-   * <a name="Discrete Structures"></a>**Discrete-Structures**
-      * Textbooks
-        * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
-      * Courses
-        * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT open course)
+   
    * <a name="Machine-Learning"></a>**Machine Learning**
       * Textbooks
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
@@ -74,12 +83,6 @@ Curriculum
             * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Russell and Norvig)
         * Courses
             * [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) (MIT open course)
-   * <a name="Optimization"></a>**Optimization**
-       * Textbooks
-          * [The Mathematics of Nonlinear Programming] (A. Peressini, F. Sullivan, and J. Uhl, Jr)
-          * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
-       * Courses
-          * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
-          * [Machine Learning 10-725: Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) (Carnegie Mellon University)
+  
  
 
