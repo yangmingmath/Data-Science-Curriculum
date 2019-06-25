@@ -10,7 +10,7 @@ Table of Contents
   * [**Elementary Statistics and Probability**](#Elementary-Statistics)
   * [**Statistical Learning**](#Statistical-Learning)
 * [**Computer Science**](#CS)
-  * [**Algorithms**](#Algorithms)
+  * [**Algorithms and Data Structure in Python**](#Algorithms)
   * [**Theory of Computation**](#Theory-of-Computation)
   * [**Machine Learning**](#Machine-Learning)
   * [**Data Mining**](#Data-Mining)
@@ -38,7 +38,7 @@ Curriculum
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
   * <a name="Statistical-Learning"></a>**Statistical Learning**
       * Textbooks
-          * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
+          * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
       * Courses
         * [In-depth introduction to machine learning in 15 hours of expert videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
       
