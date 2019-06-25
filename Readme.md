@@ -14,7 +14,7 @@ Table of Contents
   * [**Algorithms**](#Algorithms)
   * [**Theory of Computation**](#Theory-of-Computation)
   * [**Machine Learning-From Linear Models to Neural Network**](#Machine-Learning)
-  * [**Big Data**](#Big-Data)
+  * [**Data Mining**](#Data-Mining)
   * [**Artificial Intelligence**](#Artificial-Intelligence)
   * [**Optimization**](#Optimization)
   
@@ -54,6 +54,8 @@ Curriculum
    * <a name="Theory of Computation"></a>**Theory-of-Computation**
       * Textbooks
         * [Introduction to the Theory of Computation](http://www-math.mit.edu/~sipser/book.html) (Sipser, Michael.)
+      * Courses
+        * [Theory of Computation](https://www.nesoacademy.org/computer-science/toc-and-automata-theory/theory-of-computation) (Neso Academy)
    * <a name="Discrete Mathematics"></a>**Discrete-Mathematics**
       * Textbooks
         * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
