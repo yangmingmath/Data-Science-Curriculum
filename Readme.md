@@ -22,7 +22,7 @@ Curriculum
 ==========
   * <a name="Calculus"></a>**Calculus**
       * Textbooks
-          * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) (Gilbert Strang) 
+          * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) (Gilbert Strang) (free!)
       * Courses
           * [Multivariable Calculus with Edward Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ) (UC Berkeley: MATH 53)
   * <a name="Linear-Algebra"></a>**Linear Algebra**
