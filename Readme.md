@@ -8,7 +8,6 @@ Table of Contents
   * [**Linear Algebra**](#Linear-Algebra)
   * [**Discrete Structures**](#Discrete-Structures)
   * [**Elementary Statistics and Probability**](#Elementary-Statistics)
-  * [**Bayesian Statistics**](#Bayesian-Statistics)
   * [**Statistical Learning**](#Statistical-Learning)
 * [**Computer Science**](#CS)
   * [**Algorithms**](#Algorithms)
@@ -37,9 +36,6 @@ Curriculum
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (harvard)
-  * <a name="Bayesian Statistics"></a>**Bayesian Statistics**
-      * Textbooks
-           * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman et al.)
   * <a name="Statistical-Learning"></a>**Statistical Learning**
       * Textbooks
           * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)
