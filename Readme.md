@@ -48,7 +48,7 @@ Curriculum
         * [In-depth introduction to machine learning in 15 hours of expert videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
    * <a name="Optimization"></a>**Optimization**
        * Textbooks
-          * [The Mathematics of Nonlinear Programming] (A. Peressini, F. Sullivan, and J. Uhl, Jr)
+          * [The Mathematics Of Nonlinear Programming (Undergraduate Texts In Mathematics)] (A. Peressini, F. Sullivan, and J. Uhl, Jr)
           * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
        * Courses
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
