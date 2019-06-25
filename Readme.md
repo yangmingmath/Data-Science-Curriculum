@@ -38,7 +38,7 @@ Curriculum
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
   * <a name="Statistical-Learning"></a>**Statistical Learning**
       * Textbooks
-          * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)
+          * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
       * Courses
         * [In-depth introduction to machine learning in 15 hours of expert videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
       
@@ -72,7 +72,7 @@ Curriculum
             * [Statistical Aspects of Data Mining](http://www.stats202.com/original_index.html) (Google Tech Talks)
    * <a name="Artificial-Intelligence"></a>**Artificial Intelligence**
         * Textbooks
-            * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Stuart Russell and Peter Norvig)
+            * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Russell and Norvig)
         * Courses
             * [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) (MIT open course)
    * <a name="Optimization"></a>**Optimization**
