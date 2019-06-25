@@ -68,9 +68,12 @@ Curriculum
           * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
-   * <a name="Big-Data"></a>**Big Data**
+   * <a name="Data-Mining"></a>**Data-Mining**
         * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
+          * [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) (Tan, Steinbach and Kumar)
+        * Courses
+            * [Statistical Aspects of Data Mining](http://www.stats202.com/original_index.html) (Google Tech Talks)
    * <a name="Artificial-Intelligence"></a>**Artificial Intelligence**
         * Textbooks
             * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Stuart Russell and Peter Norvig)
