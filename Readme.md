@@ -12,7 +12,7 @@ Table of Contents
   * [**Statistical Learning**](#Statistical-Learning)
 * [**Computer Science**](#CS)
   * [**Algorithms**](#Algorithms)
-  * [**Theory of Computing**](#Theory-of-Computing)
+  * [**Theory of Computation**](#Theory-of-Computation)
   * [**Machine Learning-From Linear Models to Neural Network**](#Machine-Learning)
   * [**Big Data**](#Big-Data)
   * [**Artificial Intelligence**](#Artificial-Intelligence)
@@ -51,6 +51,9 @@ Curriculum
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
+   * <a name="Theory of Computation"></a>**Theory-of-Computation**
+      * Textbooks
+        * [Introduction to the Theory of Computation](http://www-math.mit.edu/~sipser/book.html) (Sipser, Michael.)
    * <a name="Discrete Mathematics"></a>**Discrete-Mathematics**
       * Textbooks
         * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
