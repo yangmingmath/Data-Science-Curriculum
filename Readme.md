@@ -1,4 +1,4 @@
-# Ming Yang's Data Science Curriculum
+# Data Science Curriculum
 
 
 Table of Contents
