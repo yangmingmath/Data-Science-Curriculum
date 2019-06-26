@@ -30,7 +30,6 @@ Curriculum
   * <a name="Linear-Algebra"></a>**Linear Algebra**
       * Textbooks
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang)
-          * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/) (Boyd and Vandenberghe)
       * Courses
            * [Gilbert Strang: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (MIT open course)
   * <a name="Discrete Structures"></a>**Discrete Structures**
@@ -53,7 +52,7 @@ Curriculum
         * [Regression Analysis](http://www.infocobuild.com/education/audio-video-courses/mathematics/regression-analysis-iit-kharagpur.html) (Dr. Soumen Maity, IIT Kharagpur)
    * <a name="Optimization"></a>**Optimization**
        * Textbooks
-          * [The Mathematics Of Nonlinear Programming (Undergraduate Texts In Mathematics)] (A. Peressini, F. Sullivan, and J. Uhl, Jr)
+          * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/) (Boyd and Vandenberghe)(free!)
           * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
        * Courses
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
