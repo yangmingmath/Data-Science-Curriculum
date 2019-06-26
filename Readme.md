@@ -48,7 +48,8 @@ Curriculum
       * Textbooks
           * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
       * Courses
-        * [In-depth introduction to machine learning in 15 hours of expert videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
+        * [Statistical Learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
+        * [Regression Analysis](http://www.infocobuild.com/education/audio-video-courses/mathematics/regression-analysis-iit-kharagpur.html) (Dr. Soumen Maity, IIT Kharagpur)
    * <a name="Optimization"></a>**Optimization**
        * Textbooks
           * [The Mathematics Of Nonlinear Programming (Undergraduate Texts In Mathematics)] (A. Peressini, F. Sullivan, and J. Uhl, Jr)
