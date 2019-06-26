@@ -31,7 +31,7 @@ Curriculum
           * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) 
       * Courses
            * [Gilbert Strang: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (MIT open course)
-  * <a name="Discrete Structures"></a>**Discrete-Structures**
+  * <a name="Discrete Structures"></a>**Discrete Structures**
       * Textbooks
         * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
       * Courses
@@ -41,7 +41,7 @@ Curriculum
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
-  * <a name="Linear Model"></a>**Linear-Model**
+  * <a name="Linear Model"></a>**Linear Model**
       * Textbooks
           * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
       * Courses
@@ -59,7 +59,7 @@ Curriculum
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
-   * <a name="Theory of Computation"></a>**Theory-of-Computation**
+   * <a name="Theory of Computation"></a>**Theory of Computation**
       * Textbooks
         * [Introduction to the Theory of Computation](http://www-math.mit.edu/~sipser/book.html) (Sipser, Michael.)
       * Courses
@@ -72,7 +72,7 @@ Curriculum
           * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
-   * <a name="Data-Mining"></a>**Data-Mining**
+   * <a name="Data-Mining"></a>**Data Mining**
         * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
           * [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) (Tan, Steinbach and Kumar)
