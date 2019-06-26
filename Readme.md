@@ -87,6 +87,7 @@ Curriculum
           * [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) (Tan, Steinbach and Kumar)
         * Courses
             * [Statistical Aspects of Data Mining](http://www.stats202.com/original_index.html) (Google Tech Talks)
+            * [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/course/) (Stanford Open)
    * <a name="Artificial-Intelligence"></a>**Artificial Intelligence**
         * Textbooks
             * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Russell and Norvig)
