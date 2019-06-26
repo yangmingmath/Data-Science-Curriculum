@@ -8,7 +8,7 @@ Table of Contents
   * [**Linear Algebra**](#Linear-Algebra)
   * [**Discrete Structures**](#Discrete-Structures)
   * [**Elementary Statistics and Probability**](#Elementary-Statistics)
-  * [**Statistical Learning**](#Statistical-Learning)
+  * [**Linear Model**](#Linear-Model)
   * [**Optimization**](#Optimization)
 * [**Computer Science**](#CS)
   * [**Algorithms and Data Structure in Python**](#Algorithms)
@@ -41,7 +41,7 @@ Curriculum
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
-  * <a name="Statistical-Learning"></a>**Statistical Learning**
+  * <a name="Linear Model"></a>**Linear-Model**
       * Textbooks
           * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
       * Courses
