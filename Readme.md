@@ -63,7 +63,7 @@ Curriculum
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
-   * <a name="Algorithms"></a>**Algorithms**
+   * <a name="Database Systems"></a>**Database Systems**
       * Textbooks
         * [Database Systems:The Complete Book](https://theswissbay.ch/pdf/Gentoomen%20Library/Databases/Molina%2CUllman%20-%20Database%20Systems%20The%20Complete%20Book.pdf) (Ullman et al.)
       * Courses
