@@ -48,7 +48,7 @@ Curriculum
       * Textbooks
           * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
       * Courses
-        * [Statistical Learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford)
+        * [Statistical Learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford Online)
         * [Regression Analysis](http://www.infocobuild.com/education/audio-video-courses/mathematics/regression-analysis-iit-kharagpur.html) (Dr. Soumen Maity, IIT Kharagpur)
    * <a name="Optimization"></a>**Optimization**
        * Textbooks
@@ -67,7 +67,7 @@ Curriculum
       * Textbooks
         * [Database Systems:The Complete Book](https://theswissbay.ch/pdf/Gentoomen%20Library/Databases/Molina%2CUllman%20-%20Database%20Systems%20The%20Complete%20Book.pdf) (Ullman et al.)
       * Courses
-        * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) (Stanford open course)
+        * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) (Stanford Online)
    * <a name="Theory of Computation"></a>**Theory of Computation**
       * Textbooks
         * [Introduction to the Theory of Computation](http://www-math.mit.edu/~sipser/book.html) (Sipser, Michael.)
