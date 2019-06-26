@@ -12,6 +12,7 @@ Table of Contents
   * [**Optimization**](#Optimization)
 * [**Computer Science**](#CS)
   * [**Algorithms and Data Structure in Python**](#Algorithms)
+  * [**Database Systems**](#Database Systems)
   * [**Theory of Computation**](#Theory-of-Computation)
   * [**Machine Learning**](#Machine-Learning)
   * [**Data Mining**](#Data-Mining)
@@ -61,6 +62,11 @@ Curriculum
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
+   * <a name="Algorithms"></a>**Algorithms**
+      * Textbooks
+        * [Database Systems:The Complete Book](https://theswissbay.ch/pdf/Gentoomen%20Library/Databases/Molina%2CUllman%20-%20Database%20Systems%20The%20Complete%20Book.pdf) (Ullman et al.)
+      * Courses
+        * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) (Stanford open course)
    * <a name="Theory of Computation"></a>**Theory of Computation**
       * Textbooks
         * [Introduction to the Theory of Computation](http://www-math.mit.edu/~sipser/book.html) (Sipser, Michael.)
