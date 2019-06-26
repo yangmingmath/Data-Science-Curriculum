@@ -11,7 +11,7 @@ Table of Contents
   * [**Linear Model**](#Linear-Model)
   * [**Optimization**](#Optimization)
 * [**Computer Science**](#CS)
-  * [**Algorithms and Data Structure in Python**](#Algorithms)
+  * [**Algorithms and Data Structure**](#Algorithms)
   * [**Database Systems**](#Database-systems)
   * [**Theory of Computation**](#Theory-of-Computation)
   * [**Machine Learning**](#Machine-Learning)
@@ -60,7 +60,7 @@ Curriculum
       
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
-        * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
+        * [Introduction to Algorithms](http://web.karabuk.edu.tr/hakankutucu/CME222/MIT[1].Press.Introduction.to.Algorithms.2nd.Edition.eBook-TLFeBOOK.pdf) (Cormen et al.)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
    * <a name="Database Systems"></a>**Database Systems**
