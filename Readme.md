@@ -29,7 +29,7 @@ Curriculum
           * [Multivariable Calculus with Edward Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ) (UC Berkeley: MATH 53)
   * <a name="Linear-Algebra"></a>**Linear Algebra**
       * Textbooks
-          * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang)
+          * [Linear Algebra and Its Applications](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf) (Strang)
       * Courses
            * [Gilbert Strang: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (MIT open course)
   * <a name="Discrete Structures"></a>**Discrete Structures**
