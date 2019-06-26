@@ -40,7 +40,7 @@ Curriculum
   * <a name="Elementary Statistics and Probability"></a>**Elementary Statistics and Probability**
       * Textbooks
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
-           * [Statistics by Philip B. Stark](https://www.stat.berkeley.edu/~stark/SticiGui/index.htm)(free!)
+           * [Statistics by Philip B. Stark](https://www.stat.berkeley.edu/~stark/SticiGui/index.htm) (free!)
            * [Probability and Statistics (Open + Free - April 2017 release)(https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/course/)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
