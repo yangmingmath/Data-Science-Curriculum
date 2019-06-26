@@ -12,7 +12,7 @@ Table of Contents
   * [**Optimization**](#Optimization)
 * [**Computer Science**](#CS)
   * [**Algorithms and Data Structure in Python**](#Algorithms)
-  * [**Database Systems**](#Database Systems)
+  * [**Database Systems**](#Database-systems)
   * [**Theory of Computation**](#Theory-of-Computation)
   * [**Machine Learning**](#Machine-Learning)
   * [**Data Mining**](#Data-Mining)
