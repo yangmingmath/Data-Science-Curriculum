@@ -66,6 +66,7 @@ Curriculum
         * [Introduction to Computation and Programming Using Python: With Application to Understanding Data](https://github.com/y0m0/MIT.6.00.1x/blob/master/Introduction.to.Computation.and.Programming.Using.Python.2nd.Edition.pdf) (Guttag, John)
       * Courses
         * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (MIT open course)
+        * [Google's Python Class](https://developers.google.com/edu/python/) (Google's Python Class)
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
         * [Introduction to Algorithms](http://web.karabuk.edu.tr/hakankutucu/CME222/MIT[1].Press.Introduction.to.Algorithms.2nd.Edition.eBook-TLFeBOOK.pdf) (Cormen et al.)
