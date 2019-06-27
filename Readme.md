@@ -61,7 +61,7 @@ Curriculum
        * Courses
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
           * [Machine Learning 10-725: Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) (Carnegie Mellon University)
-  * <a name="Python for Data Science"></a>**Python**
+  * <a name="Python for Data Science"></a>**Python for Data Science**
       * Textbooks
         * [Introduction to Computation and Programming Using Python: With Application to Understanding Data](https://github.com/y0m0/MIT.6.00.1x/blob/master/Introduction.to.Computation.and.Programming.Using.Python.2nd.Edition.pdf) (Guttag, John)
       * Courses
