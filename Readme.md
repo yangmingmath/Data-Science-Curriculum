@@ -1,5 +1,7 @@
 # Data Science Curriculum
-
+Data science integrates technology, science and art, it involves statistics, optimization, matrix analysis, 
+theoretical computer science, programming, etc. 
+For courses, the following are suggestions for specific course settings and related materials:
 
 Table of Contents
 =================
