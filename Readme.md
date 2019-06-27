@@ -9,7 +9,7 @@ Table of Contents
   * [**Calculus**](#Calculus)
   * [**Linear Algebra**](#Linear-Algebra)
   * [**Discrete Structures**](#Discrete-Structures)
-  * [**Elementary Statistics and Probability**](#Elementary-Statistics)
+  * [**Elementary Statistics and Probability**](#Elementary-Statistics-and-Probability)
   * [**Linear Model**](#Linear-Model)
   * [**Optimization**](#Optimization)
 * [**Computer Science**](#CS)
