@@ -13,6 +13,7 @@ Table of Contents
   * [**Linear Model**](#Linear-Model)
   * [**Optimization**](#Optimization)
 * [**Computer Science**](#CS)
+  * [**Python for Data Science**](#Python)
   * [**Algorithms and Data Structure**](#Algorithms)
   * [**Database Systems**](#Database-systems)
   * [**Theory of Computation**](#Theory-of-Computation)
@@ -60,7 +61,11 @@ Curriculum
        * Courses
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
           * [Machine Learning 10-725: Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) (Carnegie Mellon University)
-      
+  * <a name="Python for Data Science"></a>**Python**
+      * Textbooks
+        * [Introduction to Computation and Programming Using Python: With Application to Understanding Data](https://github.com/y0m0/MIT.6.00.1x/blob/master/Introduction.to.Computation.and.Programming.Using.Python.2nd.Edition.pdf) (Guttag, John)
+      * Courses
+        * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (MIT open course)
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
         * [Introduction to Algorithms](http://web.karabuk.edu.tr/hakankutucu/CME222/MIT[1].Press.Introduction.to.Algorithms.2nd.Edition.eBook-TLFeBOOK.pdf) (Cormen et al.)
