@@ -39,6 +39,7 @@ Curriculum
         * [Discrete Mathematics and Its Applications](https://archive.org/details/DiscreteMathematicsAndItsApplications7thEditionKennethH.Rosen) (Kenneth, Rosen.)
       * Courses
         * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT open course)
+        * [Discrete Mathematics](https://www.youtube.com/playlist?list=PLS0SUwlYe8czAEMcnMnl9Sq3ze7XerOfR) (NTHUOCW)
   * <a name="Elementary Statistics and Probability"></a>**Elementary Statistics and Probability**
       * Textbooks
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
