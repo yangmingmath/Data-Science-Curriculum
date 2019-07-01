@@ -69,7 +69,7 @@ Curriculum
         * [Google's Python Class](https://developers.google.com/edu/python/) (Google's Python Class)
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
-        * [Introduction to Algorithms](http://web.karabuk.edu.tr/hakankutucu/CME222/MIT[1].Press.Introduction.to.Algorithms.2nd.Edition.eBook-TLFeBOOK.pdf) (Cormen et al.)
+        * [Algorithms](https://github.com/yetweka/yet-weka/blob/master/book/Algorithms-S.%20Dasgupta%2C%20C.%20H.%20Papadimitriou%2C%20and%20U.%20V.%20Vazirani-06.pdf) (S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani)
       * Courses
         * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) (MIT open course)
    * <a name="Database-Systems"></a>**Database Systems**
