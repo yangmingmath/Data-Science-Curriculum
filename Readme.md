@@ -51,6 +51,7 @@ Curriculum
   * <a name="Linear-Model"></a>**Linear Model**
       * Textbooks
           * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
+          * [Core Statistics](https://www.cambridge.org/core/books/core-statistics/F303F4463E162C6534641616AE38C0A6) (Simon N. Wood)
       * Courses
         * [Statistical Learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (Stanford Online)
         * [Regression Analysis](http://www.infocobuild.com/education/audio-video-courses/mathematics/regression-analysis-iit-kharagpur.html) (Dr. Soumen Maity, IIT Kharagpur)
