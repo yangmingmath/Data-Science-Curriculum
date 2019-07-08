@@ -91,6 +91,7 @@ Curriculum
           * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
+          * [Machine Learning for Engineering and Science Applications](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-              SISTunGRBRiZk7opYBf_K) (NPTEL-NOC IITM)
    * <a name="Data-Mining"></a>**Data Mining**
         * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
