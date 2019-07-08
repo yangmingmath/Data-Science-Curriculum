@@ -92,6 +92,7 @@ Curriculum
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
           * [Machine Learning for Engineering](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K) (NPTEL-NOC IITM)
+          * [Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) (CORNELL CS4780)
    * <a name="Data-Mining"></a>**Data Mining**
         * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
