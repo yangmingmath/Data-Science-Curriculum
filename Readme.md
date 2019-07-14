@@ -46,6 +46,7 @@ Curriculum
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
            * [Statistics by Philip B. Stark](https://www.stat.berkeley.edu/~stark/SticiGui/index.htm) (free!)
            * [Probability and Statistics (Open + Free - April 2017 release)](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/course/)
+           * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/yangmingmath/StatsWithJuliaBook)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
   * <a name="Linear-Model"></a>**Linear Model**
@@ -89,6 +90,7 @@ Curriculum
       * Textbooks
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
           * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
+          * [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) (François Chollet)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
           * [Machine Learning for Engineering](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K) (NPTEL-NOC IITM)
