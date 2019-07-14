@@ -70,7 +70,7 @@ Curriculum
       * Courses
         * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (MIT open course)
         * [Google's Python Class](https://developers.google.com/edu/python/) (Google's Python Class)
-       
+        * [Google's Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) (Google's Colaboratory)
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
         * [Algorithms](https://github.com/yetweka/yet-weka/blob/master/book/Algorithms-S.%20Dasgupta%2C%20C.%20H.%20Papadimitriou%2C%20and%20U.%20V.%20Vazirani-06.pdf) (S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani)
