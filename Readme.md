@@ -66,9 +66,11 @@ Curriculum
   * <a name="Python-for-Data-Science"></a>**Python for Data Science**
       * Textbooks
         * [Introduction to Computation and Programming Using Python: With Application to Understanding Data](https://github.com/y0m0/MIT.6.00.1x/blob/master/Introduction.to.Computation.and.Programming.Using.Python.2nd.Edition.pdf) (Guttag, John)
+        * [Course notes for Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2019) (DUKE STA 663 (2019))
       * Courses
         * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (MIT open course)
         * [Google's Python Class](https://developers.google.com/edu/python/) (Google's Python Class)
+       
    * <a name="Algorithms"></a>**Algorithms**
       * Textbooks
         * [Algorithms](https://github.com/yetweka/yet-weka/blob/master/book/Algorithms-S.%20Dasgupta%2C%20C.%20H.%20Papadimitriou%2C%20and%20U.%20V.%20Vazirani-06.pdf) (S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani)
