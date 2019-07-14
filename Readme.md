@@ -91,8 +91,10 @@ Curriculum
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
           * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
           * [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) (François Chollet)
+          * [Learn and use machine learning](https://www.tensorflow.org/tutorials/keras) (Google)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
+          * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) (Google)
           * [Machine Learning for Engineering](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K) (NPTEL-NOC IITM)
           * [Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) (CORNELL CS4780)
    * <a name="Data-Mining"></a>**Data Mining**
