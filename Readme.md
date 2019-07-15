@@ -49,6 +49,7 @@ Curriculum
            * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/yangmingmath/StatsWithJuliaBook)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
+           * [Statistics and probability](https://www.khanacademy.org/math/statistics-probability) (Khan Academy)
   * <a name="Linear-Model"></a>**Linear Model**
       * Textbooks
           * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (James, Witten, Hastie and Tibshirani)
