@@ -29,6 +29,7 @@ Curriculum
       * Textbooks
           * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) (Gilbert Strang) (free!)
       * Courses
+          * [Single Variable Calculus with Prof. David Jerison](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) (MIT open course)
           * [Multivariable Calculus with Edward Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ) (UC Berkeley: MATH 53)
   * <a name="Linear-Algebra"></a>**Linear Algebra**
       * Textbooks
