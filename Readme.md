@@ -88,6 +88,7 @@ Curriculum
         * [Introduction to Theoretical Computer Science](https://introtcs.org/public/) (Boaz Barak)
       * Courses
         * [Theory of Computation](https://www.nesoacademy.org/computer-science/toc-and-automata-theory/theory-of-computation) (Neso Academy)
+         * [Theory of Computation](http://www.aduni.org/courses/theory/index.php?view=cw) (Shai Simonson)
         * [Theory of Computation](https://www.youtube.com/playlist?list=PL3-wYxbt4yCgBHUpwXDTLos3JStccGIax) (Theory of Computation-nptel)
    
    * <a name="Machine-Learning"></a>**Machine Learning**
@@ -104,6 +105,7 @@ Curriculum
    * <a name="Data-Mining"></a>**Data Mining**
         * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
+          * [Machine Learning](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning) (Andrew Ng)
           * [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) (Tan, Steinbach and Kumar)
         * Courses
             * [Statistical Aspects of Data Mining](http://www.stats202.com/original_index.html) (Google Tech Talks)
