@@ -27,7 +27,7 @@ Curriculum
 ==========
   * <a name="Calculus"></a>**Calculus**
       * Textbooks
-          * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) (Gilbert Strang) (free!)
+          * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) (Gilbert Strang)
       * Courses
           * [Single Variable Calculus with Prof. David Jerison](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/) (MIT open course)
           * [Multivariable Calculus with Edward Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ) (UC Berkeley: MATH 53)
@@ -46,7 +46,7 @@ Curriculum
   * <a name="Elementary-Statistics-and-Probability"></a>**Elementary Statistics and Probability**
       * Textbooks
            * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (Christopher D. Barr, David M. Diez, and Mine Çetinkaya-Rundel)
-           * [Statistics by Philip B. Stark](https://www.stat.berkeley.edu/~stark/SticiGui/index.htm) (free!)
+           * [Statistics by Philip B. Stark](https://www.stat.berkeley.edu/~stark/SticiGui/index.htm)
            * [Probability and Statistics (Open + Free - April 2017 release)](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/course/)
            * [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage) (Daniel Kunin)
            * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/yangmingmath/StatsWithJuliaBook)
@@ -62,8 +62,8 @@ Curriculum
         * [Regression Analysis](http://www.infocobuild.com/education/audio-video-courses/mathematics/regression-analysis-iit-kharagpur.html) (Dr. Soumen Maity, IIT Kharagpur)
    * <a name="Optimization"></a>**Optimization**
        * Textbooks
-          * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/) (Boyd and Vandenberghe)(free!)
-          * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
+          * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/) (Boyd and Vandenberghe)
+          * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) 
        * Courses
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
           * [Machine Learning 10-725: Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) (Carnegie Mellon University)
@@ -99,7 +99,7 @@ Curriculum
    * <a name="Machine-Learning"></a>**Machine Learning**
       * Textbooks
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
-          * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
+          * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) 
           * [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) (François Chollet)
           * [Learn and use machine learning](https://www.tensorflow.org/tutorials/keras) (Google)
       * Courses
@@ -109,7 +109,7 @@ Curriculum
           * [Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) (CORNELL CS4780)
    * <a name="Data-Mining"></a>**Data Mining**
         * Textbooks
-          * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
+          * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) 
           * [Machine Learning](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning) (Andrew Ng)
           * [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) (Tan, Steinbach and Kumar)
         * Courses
