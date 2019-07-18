@@ -73,6 +73,7 @@ Curriculum
       * Courses
         * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (MIT open course)
         * [Google's Python Class](https://developers.google.com/edu/python/) (Google's Python Class)
+        * [Composing Programs](https://composingprograms.com/) (John DeNero)
         * [Practical Data Science](http://www.datasciencecourse.org/) (CMU 15-388/688 - Spring 2018)
         * [Google's Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) (Google's Colaboratory)
    * <a name="Algorithms"></a>**Algorithms**
