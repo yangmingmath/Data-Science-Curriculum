@@ -45,10 +45,10 @@ Curriculum
         * [Discrete Mathematics](https://www.youtube.com/playlist?list=PLS0SUwlYe8czAEMcnMnl9Sq3ze7XerOfR) (NTHUOCW)
   * <a name="Elementary-Statistics-and-Probability"></a>**Elementary Statistics and Probability**
       * Textbooks
-           * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
+           * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (Christopher D. Barr, David M. Diez, and Mine Çetinkaya-Rundel)
            * [Statistics by Philip B. Stark](https://www.stat.berkeley.edu/~stark/SticiGui/index.htm) (free!)
            * [Probability and Statistics (Open + Free - April 2017 release)](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/course/)
-           * [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage)(Daniel Kunin)
+           * [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage) (Daniel Kunin)
            * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/yangmingmath/StatsWithJuliaBook)
       * Courses
            * [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) (Harvard)
