@@ -101,6 +101,7 @@ Curriculum
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
           * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) 
           * [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) (François Chollet)
+          * [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition) (Raschka, Sebastian and Mirjalili, Vahid)
           * [Learn and use machine learning](https://www.tensorflow.org/tutorials/keras) (Google)
       * Courses
           * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
