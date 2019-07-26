@@ -118,7 +118,7 @@ Curriculum
             * [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/course/) (Stanford Open)
    * <a name="Artificial-Intelligence"></a>**Artificial Intelligence**
         * Textbooks
-            * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Russell and Norvig)
+            * [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html) (David L. Poole and Alan K. Mackworth)
         * Courses
             * [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) (MIT open course)
   
